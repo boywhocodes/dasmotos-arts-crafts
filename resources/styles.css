@@ -4,6 +4,8 @@
 
 h2 {
     color: white;
+    font-size: 32px;
+    font-weight: bold;
 }
 
 h3 {}
@@ -20,4 +22,9 @@ h2:nth-of-type(3) {
     background-color: skyblue;
 }
 
-.title {}
+.title {
+    background-image: url();
+    color: khaki;
+    text-align: center;
+    font-size: 100px;
+}
