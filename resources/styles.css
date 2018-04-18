@@ -23,7 +23,7 @@ h2:nth-of-type(3) {
 }
 
 .title {
-    background-image: url();
+    background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
     color: khaki;
     text-align: center;
     font-size: 100px;
